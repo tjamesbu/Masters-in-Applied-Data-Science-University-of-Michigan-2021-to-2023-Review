@@ -24,11 +24,6 @@ Provost Office:
 
 University of Michigan Diversity, Equity, and Inclusion (DEI) Organization: 
 
-## MADS Professor Rankings
-I will rank the professors from most helpful & supportive to least helpful.  The purpose of this ranking is to help prevent MADS students from feeling isolated and not-a-part-of-the-MADS-community only because of a few bad apples in the MADS faculty.  We are all a community, and those of us who respect that have to support one another.  Do these bad apples mean you should not consider MADS?....No.  You will find a few bad apples no matter what school you decide to study data science at.
-
-
-
 
 Semester I (Fall 2021)
 SIADS 501: Being a Data Scientist:
